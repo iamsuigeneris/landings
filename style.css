@@ -1,0 +1,85 @@
+ 
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+header {
+  border: none;
+}
+
+.content-1 {
+    font-weight:normal;
+    margin: 30px;
+    justify-content: center;
+    text-align: center;
+    padding:10px;
+}
+
+.content-1 button {
+    border-radius: 40px;
+    justify-content: center;
+}
+.jumbotron .row {
+    justify-content: center;
+}
+.play i{
+  position: relative;
+  justify-content: center;
+  padding-top: inherit;
+}
+.card {
+    border:none;
+    text-align: center; 
+}
+.card a{
+      margin: 20px;  
+      padding:20px;
+      border-radius:100%;
+}
+
+.grid {
+    margin-bottom: 30px;
+}
+.grid .card {
+    width:19rem;
+    height: 20rem;
+    
+}
+/*
+.intro {
+    margin-bottom: 30px;
+}
+
+*/
+.intro h2,.intro p {
+    line-height: 1;
+    text-align: center;
+}
+div .card text-white{
+    border: none;
+}
+.footer {
+    height: 100px;
+    background-color: #38A1F3;
+    background-image:linear-gradient(to bottom,white,blue);
+    text-align:center;
+    font-size: 1.5em;
+    padding: 30px 20px;
+    opacity: 0.5;
+}
+.footer p {
+  text-shadow: 1.5px 1.5px 1.5px red;
+}
+
+
+
